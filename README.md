@@ -9,7 +9,7 @@ The data used is a collection of a couple of months’ worth of news articles at
 
 The news articles are related to either Chicago and / or Illinois.
 
-The following steps were implemented: 
+## The following steps were implemented: 
 
 Clean-up the noise (eliminate articles irrelevant to the analysis)
 
@@ -18,10 +18,16 @@ Detect major topics (i.e. LSA, LDA and TF-IDF)
 Identify top reasons for population decline (negative sentiment)
 
 Suggest corrective actions
+
 Demonstrate how the city / state can attract new businesses (positive sentiment)
+
 Leverage appropriate NLP techniques to identify organizations and people and apply targeted sentiment
+
 Why businesses should stay in IL or move into IL?
+
 Create appropriate visualization to summarize recommendations
+
 Whey residents should stay in IL or move into IL?
+
 Create appropriate visualization to summarize recommendations 
 
