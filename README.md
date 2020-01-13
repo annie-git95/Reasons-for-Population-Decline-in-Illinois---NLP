@@ -2,8 +2,7 @@
 
 Illinois is famous for being one of the very few states in the country with negative population growth.  The objective of this project is to:
 
-Identify the key reasons for the declining population by extracting meaningful insights from unstructured text
-Provide actionable recommendations on what can be done to reverse this trend
+Identify the key reasons for the declining population by extracting meaningful insights from unstructured text and to provide actionable recommendations on what can be done to reverse this trend.
 
 
 The data used is a collection of a couple of months’ worth of news articles attached in this repo.
@@ -18,7 +17,7 @@ Suggest corrective actions
 Demonstrate how the city / state can attract new businesses (positive sentiment)
 Leverage appropriate NLP techniques to identify organizations and people and apply targeted sentiment
 Why businesses should stay in IL or move into IL?
-Create appropriate visualization to summarize your recommendations
+Create appropriate visualization to summarize recommendations
 Whey residents should stay in IL or move into IL?
-Create appropriate visualization to summarize your recommendations 
+Create appropriate visualization to summarize recommendations 
 
