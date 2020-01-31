@@ -23,11 +23,6 @@ Demonstrate how the city / state can attract new businesses (positive sentiment)
 
 Leverage appropriate NLP techniques to identify organizations and people and apply targeted sentiment
 
-Why businesses should stay in IL or move into IL?
+*Note: Github does not display blocks with genism/topic modelling graphs. If you run the code in your environment, you should be able to see them!
 
-Create appropriate visualization to summarize recommendations
-
-Whey residents should stay in IL or move into IL?
-
-Create appropriate visualization to summarize recommendations 
 
