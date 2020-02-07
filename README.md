@@ -17,6 +17,8 @@ Detect major topics (i.e. LSA, LDA and TF-IDF)
 
 Identify top reasons for population decline (negative sentiment)
 
+Use Entity Recognition Techniques to distinguish Organizations and People
+
 Suggest corrective actions
 
 Demonstrate how the city / state can attract new businesses (positive sentiment)
