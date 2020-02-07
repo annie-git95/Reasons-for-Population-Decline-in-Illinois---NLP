@@ -17,13 +17,12 @@ Detect major topics (i.e. LSA, LDA and TF-IDF)
 
 Identify top reasons for population decline (negative sentiment)
 
-Use Entity Recognition Techniques to distinguish Organizations and People
+Leverage appropriate NLP techniques to identify organizations and people and apply targeted sentiment
 
 Suggest corrective actions
 
 Demonstrate how the city / state can attract new businesses (positive sentiment)
 
-Leverage appropriate NLP techniques to identify organizations and people and apply targeted sentiment
 
 *Note: Github does not display blocks with genism/topic modelling graphs. If you run the code in your environment, you should be able to see them!
 
